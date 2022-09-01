@@ -1,1 +1,1 @@
-creating a new world where software engineering is mostly desirable
+Create a script that switches the current user to the user betty
